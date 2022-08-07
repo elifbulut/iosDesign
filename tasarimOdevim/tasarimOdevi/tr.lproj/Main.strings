@@ -1,0 +1,84 @@
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "B44-OM-d6Q"; */
+"B44-OM-d6Q.placeholder" = "Search";
+
+/* Class = "UISearchBar"; B44-OM-d6Q.scopeButtonTitles[0] = "Title"; ObjectID = "B44-OM-d6Q"; */
+"B44-OM-d6Q.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; B44-OM-d6Q.scopeButtonTitles[1] = "Title"; ObjectID = "B44-OM-d6Q"; */
+"B44-OM-d6Q.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "30$"; ObjectID = "Cc0-gA-XN8"; */
+"Cc0-gA-XN8.text" = "30$";
+
+/* Class = "UILabel"; text = "Roast Chicken"; ObjectID = "CvN-x2-34L"; */
+"CvN-x2-34L.text" = "Roast Chicken";
+
+/* Class = "UIButton"; configuration.title = "  Add"; ObjectID = "GAd-QJ-UKK"; */
+"GAd-QJ-UKK.configuration.title" = "  Add";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GAd-QJ-UKK"; */
+"GAd-QJ-UKK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "32$"; ObjectID = "Hxf-hw-dnf"; */
+"Hxf-hw-dnf.text" = "32$";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "INT-Lc-fye"; */
+"INT-Lc-fye.text" = "Categories";
+
+/* Class = "UIButton"; configuration.title = "  Add"; ObjectID = "J8z-Jd-msJ"; */
+"J8z-Jd-msJ.configuration.title" = "  Add";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "J8z-Jd-msJ"; */
+"J8z-Jd-msJ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "View Our Menu"; ObjectID = "Kjq-1D-vcm"; */
+"Kjq-1D-vcm.configuration.title" = "View Our Menu";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Kjq-1D-vcm"; */
+"Kjq-1D-vcm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Let's find your healthy food!"; ObjectID = "OM4-u8-sXb"; */
+"OM4-u8-sXb.text" = "Let's find your healthy food!";
+
+/* Class = "UILabel"; text = "25$"; ObjectID = "TUN-iw-0HW"; */
+"TUN-iw-0HW.text" = "25$";
+
+/* Class = "UILabel"; text = "Caesar Salad bowl"; ObjectID = "a9N-AO-l7f"; */
+"a9N-AO-l7f.text" = "Caesar Salad bowl";
+
+/* Class = "UIButton"; configuration.title = "  Add"; ObjectID = "gHV-5o-VCl"; */
+"gHV-5o-VCl.configuration.title" = "  Add";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gHV-5o-VCl"; */
+"gHV-5o-VCl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Healthy food for busy people"; ObjectID = "hpt-9D-jQz"; */
+"hpt-9D-jQz.text" = "Healthy food for busy people";
+
+/* Class = "UILabel"; text = "Greek Salad bowl"; ObjectID = "npa-8J-Okw"; */
+"npa-8J-Okw.text" = "Greek Salad bowl";
+
+/* Class = "UILabel"; text = "25$"; ObjectID = "nyE-aK-Qal"; */
+"nyE-aK-Qal.text" = "25$";
+
+/* Class = "UIButton"; configuration.title = "Veggie"; ObjectID = "qtl-iw-mfE"; */
+"qtl-iw-mfE.configuration.title" = "Veggie";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qtl-iw-mfE"; */
+"qtl-iw-mfE.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " Meat"; ObjectID = "rYO-GD-jBf"; */
+"rYO-GD-jBf.configuration.title" = " Meat";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rYO-GD-jBf"; */
+"rYO-GD-jBf.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "  Add"; ObjectID = "sa2-NU-Q4Z"; */
+"sa2-NU-Q4Z.configuration.title" = "  Add";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sa2-NU-Q4Z"; */
+"sa2-NU-Q4Z.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Grilled Steak"; ObjectID = "zan-Jn-dY4"; */
+"zan-Jn-dY4.text" = "Grilled Steak";
